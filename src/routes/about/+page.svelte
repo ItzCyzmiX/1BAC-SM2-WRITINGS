@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this project:/h1>
+	<h1>About this project</h1>
 
 	<p>
 		This is a class project, that revolves around creative minds of the 1BAC SM2 class. In this website you will find wrintings of the briliant students of this class, were they express their varying opinions on differents topics!

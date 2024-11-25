@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to the <br />1BAC SM2 <br /> wrintings galerie!
+		to the <br />1BAC SM2 <br /> wrintings gallery!
 	</h1>
 
 	number of writings:
